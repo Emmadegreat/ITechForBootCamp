@@ -23,7 +23,8 @@ else:
 
 
 """
-This project 'PASSWORD GENERATOR' generate password randomely for the user, from the given characters above. Guido van Rossium
+This project 'PASSWORD GENERATOR' generate password randomely for the user, from the given characters above. 
+The founder of python is: Guido van Rossium
 """
 
 
