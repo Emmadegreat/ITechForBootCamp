@@ -9,16 +9,3 @@ def first_last(aa = [1, 2, 3, 4]):
     print(final_pro)
 first_last(aa = [1, 2, 3, 4])
 
-"""
-def mysum():
-    output = [1, 2, [4, 5]]
-    s = set(output)
-    print(s)
-    print(output)
-
-mysum()
-
-a = (1,2)
-b = sum(a)
-print(b)
-"""
